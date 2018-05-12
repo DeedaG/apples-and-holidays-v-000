@@ -72,6 +72,10 @@ def all_holidays_with_bbq(holiday_hash)
     holiday.each do |supplies|
     if supplies.include?(BBQ).to_a
       return a.keys
-      
-    
+    end
+  end
+end
+end
+
+
 end
