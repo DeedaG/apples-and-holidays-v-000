@@ -74,7 +74,6 @@ def all_holidays_with_bbq(holiday_hash)
       return array.keys
     end
   end
-end
 
 
 
